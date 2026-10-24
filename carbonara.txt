@@ -1,3 +1,4 @@
+eggs
 pasta
 mushrooms
 cream cheese
